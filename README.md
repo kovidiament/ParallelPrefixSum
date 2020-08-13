@@ -10,5 +10,5 @@ Uses a ForkJoinPool and two nested classes, one extending RecursiveTask and one 
 **SerialPrefixSum**
 Computes the prefix sum linearly.
 
-**ParallelPrefixSum**
+**ParallelPrefixSum.pdf**
 Specifies the result of comparing the runtimes of these approaches on the same machine, using the Driver class.
